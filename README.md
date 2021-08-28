@@ -1,11 +1,11 @@
-### Hi I'm Edison 👋
+### Hi I'm Edison！ 👋
 [![LuvKobe's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuvKobe)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🍉 CSDN：**[栗砸](https://blog.csdn.net/top0828)**
 - 🍎 知乎：**[鱼丸](https://www.zhihu.com/people/giant_panda)**
 - 🍇 研究方向：云计算、后端开发(C/C++)
 - 🍊 个人微信：porvata
-- 🍑 字节跳动、阿里、百度、网易等大厂持续内推中，加我VX进内部交流群
+- 🍑 向着架构师目标奋斗
 
 <!--
 LuvKobe/LuvKobe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
