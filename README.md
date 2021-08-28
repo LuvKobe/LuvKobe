@@ -5,7 +5,7 @@
 - 🍎 知乎：**[鱼丸](https://www.zhihu.com/people/giant_panda)**
 - 🍇 研究方向：云计算、后端开发(C/C++)
 - 🍊 个人微信：porvata
-- 🍑 向着架构师目标奋斗
+- 🍑 The position does not deserve you
 
 <!--
 LuvKobe/LuvKobe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
