@@ -2,7 +2,7 @@
 [![LuvKobe's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuvKobe)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🍉 CSDN：**[栗砸](https://blog.csdn.net/top0828)**
-- 🍎 知乎：**[鱼丸](https://www.zhihu.com/people/giant_panda)**
+- 🍎 知乎：**[鱼丸](https://www.zhihu.com/people/yu-wan-23-34)**
 - 🍇 研究方向：云计算、后端开发(C/C++)
 - 🍊 个人微信：porvata
 - 🍑 The position does not deserve you
