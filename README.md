@@ -1,7 +1,14 @@
-### Hi there 👋
+### Hi I'm 鱼丸 👋
+[![LuvKobe's GitHub stats](https://github-readme-stats.vercel.app/api?username=yechens)](https://github.com/anuraghazra/github-readme-stats)
+
+- 🍉 公众号：**NLP情报局**
+- 🍎 知乎：**[鱼丸](https://www.zhihu.com/people/giant_panda)**
+- 🍇 个人方向：云计算、后端开发
+- 🍊 个人微信：porvata
+- 🍑 字节跳动、阿里、百度、网易等大厂持续内推中，加我VX进内部交流群
 
 <!--
-**LuvKobe/LuvKobe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+LuvKobe/LuvKobe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
