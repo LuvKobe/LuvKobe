@@ -2,10 +2,10 @@
 [![LuvKobe's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuvKobe)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🍉 CSDN：**[飞向星的客机](https://blog.csdn.net/m0_63325890)**
-- 🍎 知乎：**[鱼丸](https://www.zhihu.com/people/yu-wan-23-34)**
+- 🍎 博客园：**[飞向星的客机](https://www.cnblogs.com/LuvKobe/)**
 - 🍇 研究方向：云计算、后端开发(C/C++)
 - 🍊 个人微信：porvata
-- 🍑 The position does not deserve you
+- 🍑 我从来不曾优秀过，也从来不曾放弃过
 
 <!--
 LuvKobe/LuvKobe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
