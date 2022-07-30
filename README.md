@@ -2,7 +2,7 @@
 
 [![LuvKobe's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuvKobe&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuvKobe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+//[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuvKobe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🍉 CSDN：**[飞向星的客机](https://blog.csdn.net/m0_63325890)**
 - 🍇 研究方向：云原生、后端开发(C/C++)
