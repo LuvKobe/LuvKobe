@@ -1,7 +1,9 @@
 ### *Hi I'm Edison！* 👋
 
 
-![CSDN](https://img.shields.io/badge/CSDN-%E9%A3%9E%E5%90%91%E6%98%9F%E7%9A%84%E5%AE%A2%E6%9C%BA-blue?logo=Hoppscotch&logoWidth=20?link=https://blog.csdn.net/m0_63325890&link=https://blog.csdn.net/m0_63325890)
+[![CSDN](https://img.shields.io/badge/CSDN-%E9%A3%9E%E5%90%91%E6%98%9F%E7%9A%84%E5%AE%A2%E6%9C%BA-blue?logo=Hoppscotch&logoWidth=20)](https://blog.csdn.net/m0_63325890)
+
+
 
 
 <!--这是注释
