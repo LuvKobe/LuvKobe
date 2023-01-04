@@ -10,7 +10,9 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=LuvKobe&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
 -->
 
-[![LuvKobe's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuvKobe&show_icons=true&icon_color=805AD5)](https://github.com/anuraghazra/github-readme-stats)
+
+[![LuvKobe's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=LuvKobe&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
 
 <!--
 这是注释
