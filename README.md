@@ -21,7 +21,7 @@
 
 
 - **🏅️平台：*[CSDN](https://blog.csdn.net/m0_63325890)* 内容合伙人、*[InfoQ](https://www.infoq.cn/u/edison)* 签约作者、*[阿里云](https://developer.aliyun.com/profile/expert/jouws6iz5bgna)* 专家博主**
-- **🛫领域：专注于C语言、数据结构、算法、C++、Linux、MySQL、云计算、运维领域的研究**
+- **🛫领域：专注于 `C/C++`、`数据结构`、`算法`、`Linux`、`MySQL`、`云计算` 等领域的研究**
 - **✨成就：2021年CSDN博客新星Top9，算法领域优质创作者，全网累计粉丝4W+**
 
 <!--
