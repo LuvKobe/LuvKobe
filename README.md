@@ -24,7 +24,7 @@
 - **🛫领域：专注于 `C/C++`、`数据结构`、`算法`、`Linux`、`MySQL`、`云计算` 等领域的研究**
 - **✨成就：2021年CSDN博客新星Top9，2022年博客之星Top6，算法领域优质创作者，全网累计粉丝4W+，博客访问量160W+**
 
-[](https://github.com/LuvKobe/LuvKobe/blob/main/github-contribution-grid-snake.svg)
+
 
 <!--
 LuvKobe/LuvKobe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
