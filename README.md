@@ -12,6 +12,7 @@
 
 
 [![LuvKobe's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=LuvKobe&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=LuvKobe&layout=compact&hide_title=true)
 
 
 <!--
