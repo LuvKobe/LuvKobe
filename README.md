@@ -10,6 +10,7 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=LuvKobe&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
 -->
 
+![Stats](https://github-readme-stats.vercel.app/api?username=LuvKobe&hide=contribs&show_icons=true)
 
 [![LuvKobe's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=LuvKobe&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 ![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=LuvKobe&layout=compact&hide_title=true)
