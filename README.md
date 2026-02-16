@@ -10,7 +10,7 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=LuvKobe&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
 1111112222222222
 1111122222233333
-111112222222222
+1111122222222222
 111111111111111
 -->
 
